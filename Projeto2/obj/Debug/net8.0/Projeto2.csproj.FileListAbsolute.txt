@@ -1,0 +1,14 @@
+/home/anderc/dotnet/Projeto2/bin/Debug/net8.0/Projeto2
+/home/anderc/dotnet/Projeto2/bin/Debug/net8.0/Projeto2.deps.json
+/home/anderc/dotnet/Projeto2/bin/Debug/net8.0/Projeto2.runtimeconfig.json
+/home/anderc/dotnet/Projeto2/bin/Debug/net8.0/Projeto2.dll
+/home/anderc/dotnet/Projeto2/bin/Debug/net8.0/Projeto2.pdb
+/home/anderc/dotnet/Projeto2/obj/Debug/net8.0/Projeto2.GeneratedMSBuildEditorConfig.editorconfig
+/home/anderc/dotnet/Projeto2/obj/Debug/net8.0/Projeto2.AssemblyInfoInputs.cache
+/home/anderc/dotnet/Projeto2/obj/Debug/net8.0/Projeto2.AssemblyInfo.cs
+/home/anderc/dotnet/Projeto2/obj/Debug/net8.0/Projeto2.csproj.CoreCompileInputs.cache
+/home/anderc/dotnet/Projeto2/obj/Debug/net8.0/Projeto2.dll
+/home/anderc/dotnet/Projeto2/obj/Debug/net8.0/refint/Projeto2.dll
+/home/anderc/dotnet/Projeto2/obj/Debug/net8.0/Projeto2.pdb
+/home/anderc/dotnet/Projeto2/obj/Debug/net8.0/Projeto2.genruntimeconfig.cache
+/home/anderc/dotnet/Projeto2/obj/Debug/net8.0/ref/Projeto2.dll
