@@ -21,18 +21,6 @@ jobs:
       with:
         dotnet-version: 6.0.x
     - name: Test Porject1
-      run: cd Projeto1
-    - name: Restore dependencies
-      run: dotnet restore
-    - name: Build
-      run: dotnet build --no-restore
-    - name: Test1
-      run: dotnet test --no-build --verbosity normal
+      run: dotnet test --no-build --verbosity normal Projeto1/Projeto1.csproj
     - name: Test Porject2
-      run: cd Projeto2
-    - name: Restore dependencies
-      run: dotnet restore
-    - name: Build
-      run: dotnet build --no-restore
-    - name: Test2
-      run: dotnet test --no-build --verbosity normal
+      run: dotnet test --no-build --verbosity normal Projeto2/Projeto2.csproj
