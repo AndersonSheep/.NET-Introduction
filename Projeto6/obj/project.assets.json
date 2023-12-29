@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/anderc/dotnet/github/DotNet-Introduction/Projeto2/Projeto2.csproj",
-      "projectName": "Projeto2",
-      "projectPath": "/home/anderc/dotnet/github/DotNet-Introduction/Projeto2/Projeto2.csproj",
+      "projectUniqueName": "/home/anderc/dotnet/github/DotNet-Introduction/Projeto6/Projeto6.csproj",
+      "projectName": "Projeto6",
+      "projectPath": "/home/anderc/dotnet/github/DotNet-Introduction/Projeto6/Projeto6.csproj",
       "packagesPath": "/home/anderc/.nuget/packages/",
-      "outputPath": "/home/anderc/dotnet/github/DotNet-Introduction/Projeto2/obj/",
+      "outputPath": "/home/anderc/dotnet/github/DotNet-Introduction/Projeto6/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/anderc/.nuget/NuGet/NuGet.Config"

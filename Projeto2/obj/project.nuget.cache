@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jn/UQeD1x8QOGDJ6ERkbvNYhkLgP9nBIDEzX+EE5lFjGCayf9j5fp3YV+pVjVHo0CS68OyYo3KJ2HGlJEe1fSg==",
+  "dgSpecHash": "XZkGikLyCSr0pSCm65K+F9CPTMhDqSyF3Ax234VYMTVuh4InuKmPlYgH4wUYhjJFzXLjmIxY3rsz8+/Z1rT3mw==",
   "success": true,
-  "projectFilePath": "/home/anderc/dotnet/Projeto2/Projeto2.csproj",
+  "projectFilePath": "/home/anderc/dotnet/github/DotNet-Introduction/Projeto2/Projeto2.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

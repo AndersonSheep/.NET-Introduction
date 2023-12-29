@@ -4,7 +4,8 @@ using Projeto2.Models;
 Pessoa pessoa1 = new()
 {
     Nome = "Dinho",
-    Idade = 29
+    Idade = 29,
+    Sobrenome = "Carneiro"
 };
 pessoa1.Apresentar();
 

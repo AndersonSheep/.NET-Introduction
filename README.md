@@ -25,3 +25,8 @@ e fazer um "Hello World".
 
 ## Projeto5 (Estrutura de repetição)
 - Tabuada
+
+## Projeto6 (Array e Lista)
+- Para pecorrer podemos usar o foreach
+- Para aumentar o tamanho de um array, usamos o Array.Resize()
+- Lista usamos o List\<type>
