@@ -1,0 +1,14 @@
+/home/anderc/dotnet/Projeto3/bin/Debug/net8.0/Projeto3
+/home/anderc/dotnet/Projeto3/bin/Debug/net8.0/Projeto3.deps.json
+/home/anderc/dotnet/Projeto3/bin/Debug/net8.0/Projeto3.runtimeconfig.json
+/home/anderc/dotnet/Projeto3/bin/Debug/net8.0/Projeto3.dll
+/home/anderc/dotnet/Projeto3/bin/Debug/net8.0/Projeto3.pdb
+/home/anderc/dotnet/Projeto3/obj/Debug/net8.0/Projeto3.GeneratedMSBuildEditorConfig.editorconfig
+/home/anderc/dotnet/Projeto3/obj/Debug/net8.0/Projeto3.AssemblyInfoInputs.cache
+/home/anderc/dotnet/Projeto3/obj/Debug/net8.0/Projeto3.AssemblyInfo.cs
+/home/anderc/dotnet/Projeto3/obj/Debug/net8.0/Projeto3.csproj.CoreCompileInputs.cache
+/home/anderc/dotnet/Projeto3/obj/Debug/net8.0/Projeto3.dll
+/home/anderc/dotnet/Projeto3/obj/Debug/net8.0/refint/Projeto3.dll
+/home/anderc/dotnet/Projeto3/obj/Debug/net8.0/Projeto3.pdb
+/home/anderc/dotnet/Projeto3/obj/Debug/net8.0/Projeto3.genruntimeconfig.cache
+/home/anderc/dotnet/Projeto3/obj/Debug/net8.0/ref/Projeto3.dll
