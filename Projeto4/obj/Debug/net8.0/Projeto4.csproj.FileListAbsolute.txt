@@ -1,0 +1,15 @@
+/home/anderc/dotnet/github/DotNet-Introduction/Projeto4/bin/Debug/net8.0/Projeto4
+/home/anderc/dotnet/github/DotNet-Introduction/Projeto4/bin/Debug/net8.0/Projeto4.deps.json
+/home/anderc/dotnet/github/DotNet-Introduction/Projeto4/bin/Debug/net8.0/Projeto4.runtimeconfig.json
+/home/anderc/dotnet/github/DotNet-Introduction/Projeto4/bin/Debug/net8.0/Projeto4.dll
+/home/anderc/dotnet/github/DotNet-Introduction/Projeto4/bin/Debug/net8.0/Projeto4.pdb
+/home/anderc/dotnet/github/DotNet-Introduction/Projeto4/obj/Debug/net8.0/Projeto4.GeneratedMSBuildEditorConfig.editorconfig
+/home/anderc/dotnet/github/DotNet-Introduction/Projeto4/obj/Debug/net8.0/Projeto4.AssemblyInfoInputs.cache
+/home/anderc/dotnet/github/DotNet-Introduction/Projeto4/obj/Debug/net8.0/Projeto4.AssemblyInfo.cs
+/home/anderc/dotnet/github/DotNet-Introduction/Projeto4/obj/Debug/net8.0/Projeto4.csproj.CoreCompileInputs.cache
+/home/anderc/dotnet/github/DotNet-Introduction/Projeto4/obj/Debug/net8.0/Projeto4.sourcelink.json
+/home/anderc/dotnet/github/DotNet-Introduction/Projeto4/obj/Debug/net8.0/Projeto4.dll
+/home/anderc/dotnet/github/DotNet-Introduction/Projeto4/obj/Debug/net8.0/refint/Projeto4.dll
+/home/anderc/dotnet/github/DotNet-Introduction/Projeto4/obj/Debug/net8.0/Projeto4.pdb
+/home/anderc/dotnet/github/DotNet-Introduction/Projeto4/obj/Debug/net8.0/Projeto4.genruntimeconfig.cache
+/home/anderc/dotnet/github/DotNet-Introduction/Projeto4/obj/Debug/net8.0/ref/Projeto4.dll

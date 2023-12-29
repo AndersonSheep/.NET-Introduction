@@ -16,3 +16,9 @@ e fazer um "Hello World".
 - Como debugar um código, semlhante a outras linguagens, marcando o breakpoint e apertando F5, depois o F10 para ir avançando linha por linha.
 - Condicionais: If, else if e else
 - Switch Case, quando tiver várias condicionais
+
+## Projeto4 (Calculadora)
+- Construção de uma Calculadora, usando operadores, e criando uma classe dedicada pra isso, com capacidade de realizar operações de:
+    - Soma, Subtração, Multiplicação, Divisão
+    - Potência, Raiz Quadrada
+    - Seno, Coseno e Tangete (Mostrando apenas os 4 primeiros digitos)
