@@ -1,0 +1,15 @@
+/home/anderc/dotnet/github/DotNet-Introduction/Projeto5/bin/Debug/net8.0/Projeto5
+/home/anderc/dotnet/github/DotNet-Introduction/Projeto5/bin/Debug/net8.0/Projeto5.deps.json
+/home/anderc/dotnet/github/DotNet-Introduction/Projeto5/bin/Debug/net8.0/Projeto5.runtimeconfig.json
+/home/anderc/dotnet/github/DotNet-Introduction/Projeto5/bin/Debug/net8.0/Projeto5.dll
+/home/anderc/dotnet/github/DotNet-Introduction/Projeto5/bin/Debug/net8.0/Projeto5.pdb
+/home/anderc/dotnet/github/DotNet-Introduction/Projeto5/obj/Debug/net8.0/Projeto5.GeneratedMSBuildEditorConfig.editorconfig
+/home/anderc/dotnet/github/DotNet-Introduction/Projeto5/obj/Debug/net8.0/Projeto5.AssemblyInfoInputs.cache
+/home/anderc/dotnet/github/DotNet-Introduction/Projeto5/obj/Debug/net8.0/Projeto5.AssemblyInfo.cs
+/home/anderc/dotnet/github/DotNet-Introduction/Projeto5/obj/Debug/net8.0/Projeto5.csproj.CoreCompileInputs.cache
+/home/anderc/dotnet/github/DotNet-Introduction/Projeto5/obj/Debug/net8.0/Projeto5.sourcelink.json
+/home/anderc/dotnet/github/DotNet-Introduction/Projeto5/obj/Debug/net8.0/Projeto5.dll
+/home/anderc/dotnet/github/DotNet-Introduction/Projeto5/obj/Debug/net8.0/refint/Projeto5.dll
+/home/anderc/dotnet/github/DotNet-Introduction/Projeto5/obj/Debug/net8.0/Projeto5.pdb
+/home/anderc/dotnet/github/DotNet-Introduction/Projeto5/obj/Debug/net8.0/Projeto5.genruntimeconfig.cache
+/home/anderc/dotnet/github/DotNet-Introduction/Projeto5/obj/Debug/net8.0/ref/Projeto5.dll

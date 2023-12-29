@@ -12,7 +12,7 @@ e fazer um "Hello World".
 - Conversão de valores (Cast) int-string ou string-int
 
 ## Projeto3
-- Operadores lógicos e condicionais > < = == <= >= || && !
+- Operadores lógicos e condicionais > < = == != <= >= || && !
 - Como debugar um código, semlhante a outras linguagens, marcando o breakpoint e apertando F5, depois o F10 para ir avançando linha por linha.
 - Condicionais: If, else if e else
 - Switch Case, quando tiver várias condicionais
@@ -22,3 +22,6 @@ e fazer um "Hello World".
     - Soma, Subtração, Multiplicação, Divisão
     - Potência, Raiz Quadrada
     - Seno, Coseno e Tangete (Mostrando apenas os 4 primeiros digitos)
+
+## Projeto5 (Estrutura de repetição)
+- Tabuada
