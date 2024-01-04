@@ -31,3 +31,26 @@ int.TryParse(e, out a);
 // Espera o usuário digitar um comando Console.ReadLine()
 System.Console.WriteLine("Digite uma letra: ");
 //string letra = Console.ReadLine();
+
+Pessoa p1 = new()
+{
+    Nome = "momo",
+    Idade = 25,
+    Sobrenome = "debora"
+};
+
+Pessoa p2 = new()
+{
+    Nome = "kally",
+    Idade = 8,
+    Sobrenome = "up"
+};
+
+Curso cursoDeIngles = new(){
+    Nome = "Ingles",
+    Alunos = new List<Pessoa>()
+};
+
+cursoDeIngles.AdicionarAluno(p1);
+cursoDeIngles.AdicionarAluno(p2);
+cursoDeIngles.ListarAlunos();

@@ -7,6 +7,14 @@ namespace Projeto2.Models
 {
     public class Pessoa
     {
+        public Pessoa(string nome, string sobrenome){
+            Nome = nome;
+            Sobrenome = sobrenome;
+        }
+
+        public Pessoa(){
+        }
+
         private string _nome;
         private int _idade;
         public string Nome { 
@@ -30,7 +38,7 @@ namespace Projeto2.Models
         }
 
         public string Sobrenome { get; set; }
-        private string NomeCompleto => $"{Nome} {Sobrenome}".ToUpper();
+        public string NomeCompleto => $"{Nome} {Sobrenome}".ToUpper();
 
         public void Apresentar()
         {
