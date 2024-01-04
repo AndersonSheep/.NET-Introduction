@@ -28,6 +28,10 @@ int d = int.MaxValue;
 string e = "9-";
 int.TryParse(e, out a);
 
+// Formatação de números
+decimal valorMonetario = 10;
+System.Console.WriteLine($"{valorMonetario:C}");
+
 // Espera o usuário digitar um comando Console.ReadLine()
 System.Console.WriteLine("Digite uma letra: ");
 //string letra = Console.ReadLine();

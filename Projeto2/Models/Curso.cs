@@ -24,8 +24,10 @@ namespace Projeto2.Models
         }
 
         public void ListarAlunos(){
-            foreach (Pessoa aluno in Alunos){
-                System.Console.WriteLine(aluno.NomeCompleto);
+            System.Console.WriteLine($"Alunos do curso de: {Nome}");
+            for(int count = 0; count < Alunos.Count; count++){
+                string texto = "Nº" + count + " - " + Alunos[count].NomeCompleto;   
+                System.Console.WriteLine(texto);
             }
         }
 
