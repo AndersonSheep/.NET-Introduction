@@ -12,7 +12,7 @@ pessoa1.Apresentar();
 // Metodo DateTime
 DateTime dataAtual = DateTime.Now;
 Console.WriteLine(dataAtual);
-Console.WriteLine(dataAtual.ToString("dd/MM/yyy"));
+Console.WriteLine(dataAtual.ToString("dd/MM/yyy HH:mm"));
 
 // Metodo de conversão de valores Convert e Parse
 int a = Convert.ToInt32("5");
@@ -31,6 +31,10 @@ int.TryParse(e, out a);
 // Formatação de números
 decimal valorMonetario = 10;
 System.Console.WriteLine($"{valorMonetario:C}");
+System.Console.WriteLine(valorMonetario.ToString("N2"));
+System.Console.WriteLine(valorMonetario.ToString("P"));
+System.Console.WriteLine(valorMonetario.ToString("#-#"));
+// C = valor monetário, N = valor decimal, P = porcentagem, #-##-## = valores personalisados
 
 // Espera o usuário digitar um comando Console.ReadLine()
 System.Console.WriteLine("Digite uma letra: ");
