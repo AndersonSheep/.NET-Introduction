@@ -30,3 +30,9 @@ e fazer um "Hello World".
 - Para pecorrer podemos usar o foreach
 - Para aumentar o tamanho de um array, usamos o Array.Resize()
 - Lista usamos o List\<type>
+
+## Projeto7 (Orentação ao Objeto)
+- POO
+- Abstração
+- Herança
+- Interface
